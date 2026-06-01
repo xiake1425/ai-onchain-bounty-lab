@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>AI 链上赏金实验室</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Good luck / Codex 打工钱包实验</p>
+          <h1>AI 链上赏金实验室</h1>
+          <p class="lede">
+            不自动炒币，不碰私钥。每天筛选 Web3 赏金、黑客松、Grant 和内容任务，
+            选择能由一个人加 AI 完成的机会，公开记录执行和收入。
+          </p>
+          <div class="actions">
+            <a class="primary" href="#opportunities">看今日机会</a>
+            <a class="secondary" href="#rules">查看边界</a>
+          </div>
+        </div>
+        <aside class="wallet-card" aria-label="收款钱包">
+          <span class="label">ETH / ERC20 self-custody wallet</span>
+          <strong id="walletAddress">等待填入公开收款地址</strong>
+          <button id="copyWallet" type="button">复制地址</button>
+          <p>这是 MetaMask 自托管地址，可接收 ETH 和 Ethereum 主网上的 ERC-20 代币。收 USDT 时请确认付款方选择 USDT-ERC20 / Ethereum。</p>
+        </aside>
+      </section>
+
+      <section class="metrics" aria-label="实验指标">
+        <article>
+          <span>本周目标</span>
+          <strong>提交 1 个任务</strong>
+        </article>
+        <article>
+          <span>风险等级</span>
+          <strong>低资金暴露</strong>
+        </article>
+        <article>
+          <span>收入来源</span>
+          <strong>赏金 / Grant / 打赏</strong>
+        </article>
+        <article>
+          <span>资金规则</span>
+          <strong>不暴露私钥</strong>
+        </article>
+      </section>
+
+      <section id="opportunities" class="section">
+        <div class="section-head">
+          <p class="eyebrow">Opportunity funnel</p>
+          <h2>第一批机会清单</h2>
+        </div>
+        <div class="opportunity-grid">
+          <article class="opportunity featured">
+            <div>
+              <span class="tag">第一目标</span>
+              <h3>Tether.dev Grants & Bounties</h3>
+            </div>
+            <p>官方公开赏金，付款单位是 USD₮。优先看 WDK 模板、浏览器扩展、eCommerce 支付 demo 这类可交付任务。</p>
+            <ul>
+              <li>金额：1,500-10,000 USD₮</li>
+              <li>动作：先做申请材料和相关经验页</li>
+              <li>边界：申请前不授权钱包、不支付费用</li>
+            </ul>
+          </article>
+          <article class="opportunity">
+            <div>
+              <span class="tag">优先</span>
+              <h3>AI Agent / Web3 黑客松</h3>
+            </div>
+            <p>用 Codex 做一个小而完整的 demo，提交视频、说明文档和代码仓库。</p>
+            <ul>
+              <li>适合：开发原型、写文档、录演示</li>
+              <li>收入：奖金、赞助、后续外包线索</li>
+              <li>动作：每天查 ETHGlobal、DoraHacks、生态官网</li>
+            </ul>
+          </article>
+          <article class="opportunity">
+            <div>
+              <span class="tag">稳妥</span>
+              <h3>中文教程 / 项目文档</h3>
+            </div>
+            <p>给海外 Web3 项目做中文教程、入门页、FAQ、部署指南和社区素材。</p>
+            <ul>
+              <li>适合：资料整理、翻译、本地化表达</li>
+              <li>收入：USDT 赏金、项目方打赏</li>
+              <li>动作：主动给项目方发样稿</li>
+            </ul>
+          </article>
+          <article class="opportunity">
+            <div>
+              <span class="tag">可产品化</span>
+              <h3>链上数据小看板</h3>
+            </div>
+            <p>做简单看板：钱包观察、空投任务进度、项目公告聚合、风险提醒。</p>
+            <ul>
+              <li>适合：前端页面、API 聚合、自动摘要</li>
+              <li>收入：订阅、赞助、工具授权</li>
+              <li>动作：先做公开样例，不接用户私钥</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="split">
+        <div id="rules" class="panel">
+          <p class="eyebrow">Rules</p>
+          <h2>实验边界</h2>
+          <ul class="check-list">
+            <li>页面只展示公开地址，不保存私钥、助记词或交易所密码。</li>
+            <li>不做自动交易、不带单、不承诺收益。</li>
+            <li>MetaMask 只负责收款展示；任何转账、授权、签名都必须人工确认。</li>
+            <li>不碰需要预付高额费用的任务。</li>
+            <li>每个机会先做骗局检查，再决定是否投入时间。</li>
+            <li>所有收入和失败都记录，方便复盘。</li>
+          </ul>
+        </div>
+        <div class="panel">
+          <p class="eyebrow">7 days</p>
+          <h2>第一周执行</h2>
+          <ol class="timeline">
+            <li><span>Day 1</span> 使用 MetaMask 地址，锁定 Tether.dev 赏金作为第一目标。</li>
+            <li><span>Day 2</span> 准备申请材料：相关经验、项目页、交付方案。</li>
+            <li><span>Day 3</span> 做一个 WDK / USDT 收款 demo 的最小样品。</li>
+            <li><span>Day 4</span> 提交 Tether bounty 申请，公开记录提交信息。</li>
+            <li><span>Day 5</span> 继续扫 Gitcoin、Filecoin、The Graph、DoraHacks。</li>
+            <li><span>Day 6</span> 做第二个可复用模板或中文教程样稿。</li>
+            <li><span>Day 7</span> 复盘：申请状态、收入、线索、下周方向。</li>
+          </ol>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-head">
+          <p class="eyebrow">Ledger</p>
+          <h2>公开收入日志</h2>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>日期</th>
+                <th>任务</th>
+                <th>状态</th>
+                <th>收入</th>
+                <th>备注</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>2026-06-01</td>
+                <td>启动实验页面</td>
+                <td><span class="status">进行中</span></td>
+                <td>0</td>
+                <td>等待填入钱包地址和第一批任务。</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="sources">
+        <p class="eyebrow">Reference</p>
+          <a href="https://tether.dev/grants/bounties/">Tether.dev Bounties</a>
+          <a href="https://gitcoin.co/mechanisms/bounties">Gitcoin Bounties</a>
+          <a href="https://www.anthropic.com/research/project-vend-1?lang=us">Anthropic Project Vend</a>
+          <a href="https://autocryptobench.com/">AutoCryptoBench</a>
+      </section>
+    </main>
+    <script src="./script.js"></script>
+  </body>
+</html>
