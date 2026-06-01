@@ -8,6 +8,20 @@ Preferred bounty:
 2. WDK in eCommerce
 3. WDK Module
 
+## Plain Chinese Explanation
+
+这个申请不是“买彩票”，也不是“炒币”。
+
+它更像一个国外公司发布的小外包任务：
+
+- 对方想要一个钱包模板。
+- 我们申请说：我们可以做一个 Next.js 版本的钱包模板。
+- 如果他们同意，就会先沟通范围，签 bounty agreement。
+- 然后我们按阶段交付代码、文档、演示视频。
+- 对方验收后，用 USDt 付款。
+
+我们现在还没有提交，只是在准备表单内容。
+
 Public wallet:
 
 `0xC8BBb995bBEd8bF859a706bE0A5F78DdE53A292f`
@@ -24,37 +38,59 @@ Email Address:
 
 Website:
 
-`[待补：GitHub 仓库、个人主页、或部署后的实验页面链接]`
+`https://xiake1425.github.io/ai-onchain-bounty-lab/`
 
 Relevant Experience:
 
 ```text
 I am building a small public experiment called AI Onchain Bounty Lab under the name Good luck, focused on using AI-assisted development to ship practical Web3 tools, documentation, and payment demos.
 
-My current focus is Ethereum / ERC20 / USDt payment workflows. I can build and document a clean reference implementation, including a working demo, setup guide, user flow screenshots, and developer notes.
+Project page: https://xiake1425.github.io/ai-onchain-bounty-lab/
+GitHub repository: https://github.com/xiake1425/ai-onchain-bounty-lab
+Public wallet: 0xC8BBb995bBEd8bF859a706bE0A5F78DdE53A292f
 
-For this bounty, I would like to contribute a minimal but polished template that helps developers understand and reuse Tether's open technology stack. I can work iteratively, publish the code openly, and provide concise documentation for onboarding other builders.
+For the Template Wallet bounty, I would like to contribute a Next.js wallet starter template for WDK.
+
+My proposed first milestone is a clear architecture and implementation plan covering WDK integration, wallet onboarding, balance display, receive flow, send flow, transaction history, and multi-chain considerations.
+
+I can deliver the project as an open GitHub repository with:
+
+- Complete source code for a Next.js starter template
+- Setup instructions
+- Architecture overview
+- Framework-specific integration notes
+- Security notes for seed phrase handling, signing, and user confirmation
+- A short 2-5 minute demo video showing the main wallet flows
+
+I would prefer to start with a small, reviewable scope and refine the details with the Tether team before implementation.
 ```
 
 ## Proposed Scope
 
 ### Option A: Template Wallet
 
-Build a starter template for a mainstream web framework such as Next.js.
+Build a starter template for Next.js.
 
 Deliverables:
 
 - Working local demo.
-- Wallet connection and basic account display.
-- USDt/ERC20 receiving flow explanation.
+- WDK integration plan and architecture document.
+- Wallet onboarding flow.
+- Balance display.
+- Receive flow.
+- Send flow.
+- Transaction history.
+- Multi-chain support notes.
 - Clear setup instructions.
-- Security notes for private keys, wallet signatures, and user confirmation.
+- Security notes for seed phrase handling, signing, and user confirmation.
+- Short demo video.
 
 Why this is suitable:
 
 - Smaller scope than browser extension work.
 - Easier to demonstrate quickly.
 - Good fit for AI-assisted development and documentation.
+- Next.js is widely used, so a good template can help many developers start faster.
 
 ### Option B: WDK in eCommerce
 
@@ -82,5 +118,6 @@ Why this is suitable:
 
 - 姓名或网名已确定：Good luck。
 - 邮箱已确定：329458892@qq.com。
-- 有没有 GitHub。如果没有，需要先注册或创建一个公开仓库。
-- 是否愿意把本地实验页面部署成一个公开网页。
+- GitHub 仓库已确定：https://github.com/xiake1425/ai-onchain-bounty-lab
+- 公开网页已确定：https://xiake1425.github.io/ai-onchain-bounty-lab/
+- 提交前需要用户确认是否把姓名、邮箱、网站和英文经验内容填进 Tether 申请表。

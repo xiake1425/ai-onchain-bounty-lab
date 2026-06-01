@@ -23,6 +23,8 @@
 
 判断：当前最值得先做。官方页面显示开放赏金，金额包括 1,500 USD₮ 的 WDK Module、2,000 USD₮ 的 Template Wallet、3,000 USD₮ 的 WDK in eCommerce、4,000 USD₮ 的 Browser Extension Starter，以及更高金额的 QVAC 相关任务。
 
+补充：Template Wallet 页面卡片显示 2,000 USD₮，但 PDF 详细说明里写 Reward 为 4,000 USDt，提交或沟通时需要让对方确认最终金额。
+
 推荐优先级：
 
 1. Template Wallet：适合用 Codex 快速做一个 Next.js / Vue / Svelte 等模板，交付边界清楚。
@@ -30,6 +32,15 @@
 3. Browser Extension Starter：金额更高，但安全和架构要求更重，等有样品后再冲。
 
 下一步：先准备申请材料，不在浏览器里直接提交。需要用户提供一个常用邮箱、英文姓名或网名、GitHub/个人主页链接。
+
+当前申请表字段：
+
+- Full Name
+- Email Address
+- Website
+- Relevant Experience
+- 勾选 Tether Grant Application Terms
+- Submit Application
 
 ### 1. Gitcoin Bounties
 
