@@ -17,6 +17,6 @@ copyButton.addEventListener("click", async () => {
   await navigator.clipboard.writeText(walletAddress);
   copyButton.textContent = "已复制";
   window.setTimeout(() => {
-    copyButton.textContent = "复制地址";
+    copyButton.textContent = "复制 USDT 地址";
   }, 1400);
 });

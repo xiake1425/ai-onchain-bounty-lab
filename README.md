@@ -1,8 +1,16 @@
-# AI Onchain Bounty Lab
+# Good luck Micro Task Lab
 
-AI Onchain Bounty Lab is a small public experiment by Good luck.
+Good luck Micro Task Lab is a small public experiment by Good luck.
 
-The goal is simple: use AI-assisted development to find, evaluate, and complete practical Web3 bounties, grants, documentation tasks, and payment demos.
+The goal is simple: use AI-assisted work to complete small, useful tasks for early projects.
+
+Focus areas:
+
+- Product testing notes
+- Documentation cleanup
+- User guide drafts
+- Web page and onboarding feedback
+- Lightweight Web3 task support
 
 This project does not run automated trading, does not provide financial advice, and does not custody private keys.
 
@@ -16,15 +24,16 @@ This address can receive ETH and ERC-20 tokens on Ethereum mainnet. For USDT pay
 
 ## Current Focus
 
-The first target is Tether.dev Grants & Bounties:
+The current target is level 1 micro tasks that can be completed in 30-120 minutes.
 
-https://tether.dev/grants/bounties/
+Larger grants and bounties, such as Tether.dev Grants & Bounties, are kept as future opportunities rather than the first target.
 
-Preferred bounty tracks:
+## Payment Notes
 
-- Template Wallet
-- WDK in eCommerce
-- WDK Module
+- USDT-ERC20 is available for Web3-friendly work.
+- Wise is available for bank-transfer-friendly work.
+- Payoneer is pending verification.
+- Payoneer operating rule: use Payoneer only on the user's phone with the Macau SIM network; do not open Payoneer on the computer during verification.
 
 ## Project Files
 
@@ -40,6 +49,7 @@ Preferred bounty tracks:
 - Private keys, seed phrases, exchange passwords, and verification codes are never stored here.
 - Any wallet signature, token transfer, or authorization must be manually confirmed by the wallet owner.
 - The project does not promise income or investment returns.
+- Tasks that require upfront fees, wallet authorization, unknown downloads, or guaranteed returns are rejected.
 
 ## Contact
 
