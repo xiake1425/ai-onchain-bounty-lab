@@ -45,6 +45,7 @@ Larger grants and bounties, such as Tether.dev Grants & Bounties, are kept as fu
 - `candidate-projects.md`: first outreach candidate list
 - `task-platforms.md`: small task platform map and Superteam candidate notes
 - `superteam-agent-notes.md`: non-sensitive Superteam agent registration and listing notes
+- `low-touch-operating-mode.md`: rules for minimizing user involvement
 - `samples/`: free mini-review samples for outreach
 - `messages/`: outreach message drafts
 - `weekly-review-template.md`: weekly review checklist

@@ -226,6 +226,8 @@ Current judgment:
 
 ## Recommended Next Move
 
+Use low-touch mode. The user should not inspect every listing manually. Codex should screen listings first and only bring forward tasks that pass safety and effort checks.
+
 Do not register everywhere.
 
 First, make one Superteam profile only if the user agrees. Then watch only three categories:
@@ -255,3 +257,9 @@ First acceptable task should meet all rules:
 - Global eligibility
 - Prize or payment is clear
 - Can be drafted in 1-2 hours
+
+Also reject:
+
+- Offline or in-person attendance requirements
+- Deposit / recharge / top up / stake requirements
+- Public personal video unless the user explicitly wants it
