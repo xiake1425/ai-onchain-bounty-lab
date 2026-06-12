@@ -192,6 +192,15 @@
 - 后续由 Codex 先筛任务，只把通过安全边界的候选带给用户做最终确认。
 - 自动排除线下活动、充值、押金、钱包签名、真实交易、公开视频、地区不符任务。
 
+## 2026-06-13 低参与筛选结果
+
+- 已完成当天低参与筛选报告：`screening-reports/2026-06-13-low-touch-scan.md`。
+- Superteam 当前没有合适的低风险可提交任务。
+- Velocity / Hobba / Trepa / JagPool / ClapMi / Eva / Summit Germany / Onchainhunt 均已按规则排除或观望。
+- MyPip 可作为练习草稿观察，但不是强第一单。
+- AgentOn 已看公开任务，当前多为关注/转发/注册/安装/购买/预测类小任务，暂不注册、不提交。
+- 当前建议：不强行提交；继续等 Lyra / Wander 回复，同时每日低参与扫描。
+
 ## 待用户提供
 
 - 优先链已暂定：Ethereum / ERC20 / USDT。
