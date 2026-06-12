@@ -142,6 +142,7 @@
 - 第一轮建议只联系 3 个：Lyra Web3 Playground、Passkeys 4337 Smart Wallet、Wander Docs。
 - 第一条消息只发免费小样，不先谈复杂合作。
 - 已完成 Lyra Web3 Playground 免费小样，见 `samples/lyra-web3-playground-mini-review.md`。
+- 已完成 Lyra 第一条英文私信草稿，见 `messages/lyra-first-outreach.md`。
 
 ## 待用户提供
 

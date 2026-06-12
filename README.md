@@ -44,6 +44,7 @@ Larger grants and bounties, such as Tether.dev Grants & Bounties, are kept as fu
 - `outreach-templates.md`: profile and message templates for small tasks
 - `candidate-projects.md`: first outreach candidate list
 - `samples/`: free mini-review samples for outreach
+- `messages/`: outreach message drafts
 - `tether-bounty-application-draft.md`: draft application material
 
 ## Safety Rules
