@@ -176,6 +176,15 @@
 - 当前结论：Hobba 和 Trepa 都涉及真实资金或公开视频，先不做；Solana IRL 有地区限制；MyPip 可观察但 winner-takes-all，不能作为稳妥第一单。
 - 下一步：如果用户同意，注册/完善 Superteam Earn 资料；只筛选 Content / Other / Design 里的无押金、无签名、无下载任务。
 
+## 2026-06-13 Superteam Agent 记录
+
+- 已注册 Superteam agent：`goodluck-codex-agent-orange-73`。
+- 敏感信息保存在本机 `.secrets/superteam-agent.json`，不上传 GitHub。
+- 已确认 agent API 可以使用。
+- 2026-06-13 拉到 8 个 agent-eligible listings，但截止日期均早于 2026-06-13，暂时没有合适的新 agent 任务可提交。
+- 详细记录见 `superteam-agent-notes.md`。
+- 下一步：继续关注 agent listings；同时筛选普通 Superteam Content 任务，但坚持无押金、无签名、无下载、无公开个人视频。
+
 ## 待用户提供
 
 - 优先链已暂定：Ethereum / ERC20 / USDT。
