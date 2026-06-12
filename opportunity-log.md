@@ -147,6 +147,24 @@
 - 已完成 Wander Docs 免费小样和第一条英文私信草稿。
 - 已新增每周复盘模板，见 `weekly-review-template.md`。
 
+## 2026-06-12 外联记录
+
+### Lyra Web3 Playground
+
+- 渠道：GitHub Issue
+- 链接：https://github.com/nirholas/lyra-web3-playground/issues/3
+- 内容：免费新手 onboarding review，重点是更清楚的 "Start Here" 路径和无需钱包/真实资金的 beginner-safe flow。
+- 当前状态：已发送，等待回复。
+- 下一步：3-5 天内不催；如果有回复，再准备一个 20-30 USD / USDT 的小范围后续建议。
+
+### Wander Docs
+
+- 渠道：GitHub Issue
+- 链接：https://github.com/wanderwallet/wander-docs/issues/9
+- 内容：免费文档 review，重点是增加 "Which Wander product should I use?" 产品选择指南和更明显的私钥安全提醒。
+- 当前状态：已发送，等待回复。
+- 下一步：3-5 天内不催；如果有回复，再准备一个一页文档优化的小任务报价。
+
 ## 待用户提供
 
 - 优先链已暂定：Ethereum / ERC20 / USDT。
