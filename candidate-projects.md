@@ -34,6 +34,11 @@ Link: https://github.com/passkeys-4337/smart-wallet
 
 Live demo: https://passkeys-4337.vercel.app
 
+Status note:
+
+- The repository is archived and read-only as of the latest public GitHub view.
+- Use it as a portfolio sample, not as a first outreach target.
+
 Why it fits:
 
 - It is about smart wallets and passkeys, which is hard for normal users to understand.
@@ -166,10 +171,11 @@ Free sample:
 ## First Outreach Plan
 
 1. Start with Lyra Web3 Playground, Passkeys 4337 Smart Wallet, and Wander Docs.
-2. Send only the free mini-review message first.
-3. Do not mention Payoneer in the first message.
-4. If they reply positively, offer a paid follow-up at 20-30 USD / USDT.
-5. If payment is discussed, use Wise or USDT first while Payoneer is pending.
+2. Do not send to Passkeys 4337 first because the repository is archived.
+3. Send only the free mini-review message first.
+4. Do not mention Payoneer in the first message.
+5. If they reply positively, offer a paid follow-up at 20-30 USD / USDT.
+6. If payment is discussed, use Wise or USDT first while Payoneer is pending.
 
 ## Next Free Sample Format
 
