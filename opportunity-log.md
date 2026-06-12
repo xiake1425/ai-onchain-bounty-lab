@@ -201,6 +201,16 @@
 - AgentOn 已看公开任务，当前多为关注/转发/注册/安装/购买/预测类小任务，暂不注册、不提交。
 - 当前建议：不强行提交；继续等 Lyra / Wander 回复，同时每日低参与扫描。
 
+## 2026-06-13 其他任务平台筛选
+
+- 已完成其他任务平台筛选报告：`screening-reports/2026-06-13-other-platforms-scan.md`。
+- OnlyDust 已关闭，不再作为候选。
+- Outlier 当前地区不可用。
+- DataAnnotation / Clickworker / Prolific / Toloka / uTest / Userlytics 更像用户本人做的人工任务，不适合作为 Codex 自主路线。
+- Bountycaster / Dework 暂时有登录或页面读取阻力，后续再看。
+- 当前最值得继续筛的是 Opire 和 Algora：它们是 GitHub issue 赏金平台，Codex 可能能独立完成小代码/文档任务。
+- 下一步：扫描 Opire / Algora 的 $30-$100 小 issue，优先文档、前端、TypeScript 小 bug。
+
 ## 待用户提供
 
 - 优先链已暂定：Ethereum / ERC20 / USDT。
