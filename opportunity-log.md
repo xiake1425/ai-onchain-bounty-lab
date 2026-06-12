@@ -165,6 +165,17 @@
 - 当前状态：已发送，等待回复。
 - 下一步：3-5 天内不催；如果有回复，再准备一个一页文档优化的小任务报价。
 
+## 2026-06-12 平台筛选记录
+
+- 已新增任务平台清单：`task-platforms.md`。
+- 当前最适合的非 GitHub 平台：Superteam Earn。
+- 暂时观望：Gitcoin Bounties、Dework、DoraHacks。
+- 暂时不优先：Upwork、Fiverr、Freelancer、PeoplePerHour、Contra。
+- 暂时不适合：UserTesting、Userlytics 等依赖 PayPal 的体验测试平台。
+- Superteam 第一轮已看候选：MyPip Twitter Thread、Solana IRL Research、Trepa Walkthrough、Hobba Product Feedback。
+- 当前结论：Hobba 和 Trepa 都涉及真实资金或公开视频，先不做；Solana IRL 有地区限制；MyPip 可观察但 winner-takes-all，不能作为稳妥第一单。
+- 下一步：如果用户同意，注册/完善 Superteam Earn 资料；只筛选 Content / Other / Design 里的无押金、无签名、无下载任务。
+
 ## 待用户提供
 
 - 优先链已暂定：Ethereum / ERC20 / USDT。
