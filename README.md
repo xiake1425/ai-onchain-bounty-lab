@@ -42,6 +42,7 @@ Larger grants and bounties, such as Tether.dev Grants & Bounties, are kept as fu
 - `script.js`: wallet display and copy behavior
 - `opportunity-log.md`: opportunity and execution log
 - `outreach-templates.md`: profile and message templates for small tasks
+- `candidate-projects.md`: first outreach candidate list
 - `tether-bounty-application-draft.md`: draft application material
 
 ## Safety Rules

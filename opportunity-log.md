@@ -136,6 +136,12 @@
 6. 尝试报价 10-50 USD / USDT 的小任务。
 7. 复盘回复率、报价、收款工具是否可用。
 
+## 2026-06-12 更新
+
+- 已整理第一批 10 个候选项目，见 `candidate-projects.md`。
+- 第一轮建议只联系 3 个：Lyra Web3 Playground、Passkeys 4337 Smart Wallet、Wander Docs。
+- 第一条消息只发免费小样，不先谈复杂合作。
+
 ## 待用户提供
 
 - 优先链已暂定：Ethereum / ERC20 / USDT。
