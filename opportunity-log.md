@@ -14,7 +14,7 @@
 - 备用交易所充值地址：0x6da9328e8940d619133a20869b649602da600ebf（Binance USDT ERC20 充值地址，仅适合临时收款）。
 - 收 USDT 时必须确认付款方选择 Ethereum / ERC20 网络，不要选 TRC20、BEP20、Polygon、Base 等其他网络。
 - 页面只展示公开地址；任何转账、授权、签名都必须由用户本人在 MetaMask 中人工确认。
-- Payoneer 规则：以后涉及 Payoneer 时，先提醒用户不要用电脑打开；尽量只用澳门卡手机网络打开。审核期不反复登录、不改资料。
+- Payoneer 规则：以后涉及 Payoneer 时，先提醒用户不要用电脑打开；尽量只用澳门卡手机网络打开。Payoneer 已审核通过，但当前阶段暂不主动使用。
 - Wise 已注册，可作为银行转账型任务的备选收款工具。
 - PayPal 旧账户有永久限制，短期不作为收款工具。
 - 优先找可以用 Codex 完成的小任务：产品测试、文档润色、网页反馈、用户指南、轻量 Web3 任务梳理。
@@ -210,6 +210,15 @@
 - Bountycaster / Dework 暂时有登录或页面读取阻力，后续再看。
 - 当前最值得继续筛的是 Opire 和 Algora：它们是 GitHub issue 赏金平台，Codex 可能能独立完成小代码/文档任务。
 - 下一步：扫描 Opire / Algora 的 $30-$100 小 issue，优先文档、前端、TypeScript 小 bug。
+
+## 2026-06-16 Opire / Algora 小怪筛选
+
+- 已完成当天 Opire / Algora 筛选报告：`screening-reports/2026-06-16-opire-algora-scan.md`。
+- 结论：没有发现可以马上无脑开工的任务；但 Opire / Algora 仍是当前最接近“Codex 可主要完成”的渠道。
+- 重点排除：formbricks、ToolJet 都出现平台显示 open 但 GitHub issue 已 closed 的状态；mmccl5 已有人开 PR；Arakoo/tscircuit 竞争或专业门槛偏高。
+- 当前观察候选：Nest js icons 20 USD，仅作为练手观察，不作为第一目标。
+- 已进一步排除：aueangpanit/electron-template 仓库真实访问 404；Mudlet 需要视频/录屏且已有多人 attempt；Tailcall Lighthouse 已有大量 claim PR；Unsiloed-chunker GitHub issue 公开访问 404。
+- 下一步：继续找最近 30 天、0-2 个 solvers、文档/前端/配置类任务；如果平台短期没有新鲜任务，回到主动外联路线。
 
 ## 待用户提供
 

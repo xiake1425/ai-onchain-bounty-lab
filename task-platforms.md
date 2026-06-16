@@ -8,7 +8,7 @@ Purpose: choose small, low-risk task platforms for Good luck. The current priori
 
 - USDT / USDC style crypto payments: usable, but only public receive addresses should be shared.
 - Wise: usable for bank-transfer-friendly clients.
-- Payoneer: pending verification. Do not open Payoneer on the computer. Use only the phone with the Macau SIM network if Payoneer must be checked.
+- Payoneer: approved. Do not open Payoneer on the computer. Use only the phone with the Macau SIM network if Payoneer must be checked. Do not use it casually until there is a real payment need.
 - PayPal: paused because the old account is permanently limited.
 
 ## Best Fit Now
@@ -257,6 +257,25 @@ First acceptable task should meet all rules:
 - Global eligibility
 - Prize or payment is clear
 - Can be drafted in 1-2 hours
+
+## 2026-06-16 Update: Opire / Algora
+
+Current judgment:
+
+- Opire and Algora are better fits than many social bounty sites because they are GitHub issue based.
+- Still, do not trust the bounty platform status alone. Always cross-check the real GitHub issue and existing PRs.
+- Best current pattern: recent issue, 0-2 solvers, small repo, docs/front-end/config, no wallet, no deposit, no external software install.
+
+Current watch candidates:
+
+- Nest js icons, 20 USD, likely small but low reward and repo status is not fully clean.
+
+Rejected after deeper check:
+
+- aueangpanit/electron-template tray icon indicator: Opire page exists, but GitHub repo returns 404.
+- Mudlet generic mapper walkthrough: requires video/proof and already has multiple attempts.
+- Tailcall Lighthouse performance tasks: many existing claim PRs already target the bounty.
+- Unsiloed-chunker tasks: Algora listings exist, but GitHub issue/repo access returns 404.
 
 Also reject:
 
