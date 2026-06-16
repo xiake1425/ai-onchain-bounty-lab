@@ -220,6 +220,16 @@
 - 已进一步排除：aueangpanit/electron-template 仓库真实访问 404；Mudlet 需要视频/录屏且已有多人 attempt；Tailcall Lighthouse 已有大量 claim PR；Unsiloed-chunker GitHub issue 公开访问 404。
 - 下一步：继续找最近 30 天、0-2 个 solvers、文档/前端/配置类任务；如果平台短期没有新鲜任务，回到主动外联路线。
 
+## 2026-06-16 撸毛白名单筛选
+
+- 已新增撸毛白名单：`airdrop-whitelist.md`。
+- 已完成当天筛选报告：`screening-reports/2026-06-16-airdrop-whitelist-scan.md`。
+- 当前结论：靠谱撸毛只能作为副线；多数热门活动要求交易、质押、加池子、下载软件或连接钱包签名，不适合当前低风险路线。
+- 当前最安全的两个候选：June AI by Blockchain.com、Surf / AskSurf。
+- 观察但不动：GenLayer Testnet、Soneium Spotlight、Perle Labs、SimpleChain。
+- 已排除：MegaETH Terminal Season 1 已结束；Dango / Polymarket / xStocks / Strata / Valantis / Superform / Dreamcash / Extended / Variational 等交易或 DeFi 活动；Browser Cash 下载软件。
+- 下一步：如要尝试，先从 June AI 邮箱注册/等待名单开始；不连接钱包，不付费，不下载软件。
+
 ## 待用户提供
 
 - 优先链已暂定：Ethereum / ERC20 / USDT。
